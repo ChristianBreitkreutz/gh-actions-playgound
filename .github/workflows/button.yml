@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: ManualTrigger
+name: "Manual triggers"
 
 on:
   workflow_dispatch:
